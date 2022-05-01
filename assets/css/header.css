@@ -1,0 +1,18 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #007eff;
+  color: #fff;
+  padding: 0.5rem; }
+  header h2 {
+    margin: 0px; }
+  header ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px; }
+    header ul li {
+      display: inline; }
+      header ul li a {
+        color: #fff;
+        text-decoration: none; }

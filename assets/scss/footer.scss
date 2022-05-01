@@ -1,0 +1,20 @@
+footer {
+    display: flex;
+    background-color: gray;
+    padding: 0.8rem;
+    color: #fff;
+
+    p {
+        margin: 0px;
+    }
+
+    ul{
+        list-style: none;
+        margin: 0px;
+
+        a{
+            color: #fff;
+            text-decoration: none;
+        }
+    }
+}

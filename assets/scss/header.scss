@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #007eff;
+    color: #fff;
+    padding: 0.5rem;
+
+    h2{
+        margin: 0px;
+    }
+
+    ul{
+        list-style: none;
+        padding: 0px;
+        margin: 0px;
+
+        li {
+            display: inline;
+
+            a{
+                color: #fff;
+                text-decoration: none;
+            }
+        }
+    }
+}
